@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@cdktf/provider-aws": "^14.0.4",
+    "aws-cdk-lib": "^2.82.0",
+    "readfilesync": "^1.1.5",
+    "winglang": "^0.17.49"
+  }
+}
